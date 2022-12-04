@@ -1,4 +1,4 @@
-package com.foodies.sandav
+package com.sandav.customer
 
 import io.flutter.embedding.android.FlutterActivity
 
